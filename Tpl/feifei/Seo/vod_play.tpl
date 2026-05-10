@@ -1,0 +1,1 @@
+<title>{$vod_name} - 在线播放 | 高清视频在线观看 - {$site_name}</title>

@@ -1,0 +1,1 @@
+<li class="text-item"><a href="{:U('Vod/detail', array('id'=>$vod_id))}">{$vod_name} <span>{$vod_continu}</span></a></li>

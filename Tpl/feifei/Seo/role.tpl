@@ -1,0 +1,1 @@
+<title>{$role_name} - 角色介绍与登场作品 | {$site_name}</title>

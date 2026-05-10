@@ -1,0 +1,1 @@
+<title>{$site_name} - 首页 - 热门影视推荐与最新更新</title>

@@ -1,0 +1,1 @@
+<title>{$vod_name} - 影视详情与剧情介绍 | {$site_name}</title>

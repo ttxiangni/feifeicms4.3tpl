@@ -1,0 +1,1 @@
+<title>搜索“{$wd}”结果 - {$site_name}</title>

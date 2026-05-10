@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>影视在线播放 - 播放页面预览</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; }
+        header { background-color: #333; color: white; padding: 1rem; text-align: center; }
+        nav { background-color: #444; padding: 0.5rem; }
+        nav ul { list-style: none; padding: 0; margin: 0; display: flex; justify-content: center; }
+        nav li { margin: 0 1rem; }
+        nav a { color: white; text-decoration: none; }
+        .player { padding: 2rem; text-align: center; }
+        .player video { width: 100%; max-width: 800px; }
+        .info { padding: 2rem; background: white; margin: 1rem; border-radius: 8px; }
+        .comments { padding: 2rem; }
+        .comment { background: white; margin: 1rem 0; padding: 1rem; border-radius: 8px; }
+        footer { background-color: #333; color: white; text-align: center; padding: 1rem; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>影视在线播放</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">首页</a></li>
+            <li><a href="#">电影</a></li>
+            <li><a href="#">电视剧</a></li>
+            <li><a href="#">综艺</a></li>
+            <li><a href="#">动漫</a></li>
+            <li><a href="#">搜索</a></li>
+        </ul>
+    </nav>
+    <section class="player">
+        <h2>电影标题 - 第1集</h2>
+        <video controls>
+            <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+            您的浏览器不支持视频播放。
+        </video>
+    </section>
+    <section class="info">
+        <h3>影片信息</h3>
+        <p>导演：某某</p>
+        <p>主演：某某、某某</p>
+        <p>简介：这是一个精彩的电影...</p>
+    </section>
+    <section class="comments">
+        <h3>评论区</h3>
+        <div class="comment">
+            <p><strong>用户1：</strong> 很好看！</p>
+        </div>
+        <div class="comment">
+            <p><strong>用户2：</strong> 推荐给大家。</p>
+        </div>
+    </section>
+    <footer>
+        <p>&copy; 2023 影视在线播放模板</p>
+    </footer>
+</body>
+</html>

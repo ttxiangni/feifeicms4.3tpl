@@ -1,0 +1,1 @@
+<title>影片评论 - {$vod_name} 评论区 | {$site_name}</title>

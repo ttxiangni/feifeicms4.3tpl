@@ -1,0 +1,1 @@
+<title>{$plot_name} - 剧情题材详情与相关影视 | {$site_name}</title>

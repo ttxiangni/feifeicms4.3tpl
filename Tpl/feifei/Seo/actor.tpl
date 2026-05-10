@@ -1,0 +1,1 @@
+<title>{$actor_name} - 演员资料与代表作品 | {$site_name}</title>

@@ -1,0 +1,1 @@
+<title>{$list_name}{$type_name|default='分类'} - 影视分类推荐 | {$site_name}</title>
